@@ -1,0 +1,6 @@
+{
+  "name": "Commerce Engine - Multi-Vendor Marketplace",
+  "description": "Production-grade, AI-powered multi-vendor e-commerce marketplace featuring authoritative transactional core, hybrid discovery, grounded RAG assistant, and multi-tenant seller & admin consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
